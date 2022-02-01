@@ -1,7 +1,7 @@
 {
- "name": "@andywebo/tiny",
- "version": "1.0.0",
- "description": "Removes all spaces from a string",
+  "name": "@andywebo/tiny",
+  "version": "2.0.0",
+  "description": "Removes all spaces from a string",
   "license": "MIT",
   "repository": "webstar/tiny",
   "main": "index.js",
